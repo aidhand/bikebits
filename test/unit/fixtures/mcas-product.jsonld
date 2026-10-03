@@ -1,0 +1,68 @@
+{
+					"@context": "http://schema.org/",
+					"@type": "Product",
+		    		"sku": "ONE03S111-P",
+		    		"name": "Oneal 2027 Youth Element Cotton Squadron Jersey - Black/Grey",
+		    		"brand": {
+		    			"@type": "Brand",
+    					"name": "Oneal"
+	    			},
+		    		"image": [
+					{
+			    		"contentUrl": "https://www.mcas.com.au/assets/full/ONE03S111-P.jpg?20240726010537",
+			    		"caption": "Oneal 2027 Youth Element Cotton Squadron Jersey - Black/Grey",
+			    		"@type": "ImageObject"
+		    		}
+					
+					,
+					{
+						"contentUrl": "https://www.mcas.com.au/assets/full/ONE03S114.jpg?20240328085645",
+						"caption": "Oneal 2027 Youth Element Cotton Squadron Jersey - Black/Grey - L",
+						"@type": "ImageObject"
+					},
+					{
+						"contentUrl": "https://www.mcas.com.au/assets/full/ONE03S113.jpg?20240328085645",
+						"caption": "Oneal 2027 Youth Element Cotton Squadron Jersey - Black/Grey - M",
+						"@type": "ImageObject"
+					},
+					{
+						"contentUrl": "https://www.mcas.com.au/assets/full/ONE03S112.jpg?20240328085645",
+						"caption": "Oneal 2027 Youth Element Cotton Squadron Jersey - Black/Grey - S",
+						"@type": "ImageObject"
+					},
+					{
+						"contentUrl": "https://www.mcas.com.au/assets/full/ONE03S115.jpg?20240328085645",
+						"caption": "Oneal 2027 Youth Element Cotton Squadron Jersey - Black/Grey - XL",
+						"@type": "ImageObject"
+					},
+					{
+						"contentUrl": "https://www.mcas.com.au/assets/full/ONE03S111.jpg?20240328085645",
+						"caption": "Oneal 2027 Youth Element Cotton Squadron Jersey - Black/Grey - XS",
+						"@type": "ImageObject"
+					}
+			
+					],
+		    		"description": "O'Neal 2025 Element Threat Cotton Jersey
+
+The O’NEAL Element line is made with a roomy, comfortable fit that is sure to please everyone in the family. It’s durable, wear-resistant panels, tagless design, and cuffless pant ensure the O’NEAL Element is streamlined and ready for riding. Featuring a more extensive array of sizes and colors than most gear lines, the O’NEAL Element truly has something for everybody.
+
+FIT: RELAXED FIT FOR INCREASED COMFORT AND FLEXIBILITY.
+
+Features
+
+
+	100% Ringspun Cotton
+	Tagless neck label design
+	Screen printed graphics
+
+
+ 
+",
+						"color": "Black/Grey",
+								
+		    		"url": "https://www.mcas.com.au/shop/oneal-2027-youth-element-cotton-squadron-jersey-bl-ONE03S111-P",
+		    		"offers": [
+		    		{}
+				
+					
+					]}

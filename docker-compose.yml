@@ -1,0 +1,11 @@
+services:
+  db:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_USER: bikebits
+      POSTGRES_PASSWORD: bikebits
+      POSTGRES_DB: bikebits
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./.data/pg:/var/lib/postgresql/data
